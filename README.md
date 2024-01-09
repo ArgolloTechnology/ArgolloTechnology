@@ -32,5 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=argollotechnology&show_icons=true&theme=dark&locale=en&layout=compact" alt="argollotechnology" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=argollotechnology&show_icons=true&theme=dark&locale=en" alt="argollotechnology" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=argollotechnology&theme=dark" alt="argollotechnology" /></p>
