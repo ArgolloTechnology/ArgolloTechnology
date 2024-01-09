@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **a little of everything**
 
-- 👯 I’m looking to collaborate on **Game development**
+- 👯 I’m looking to collaborate on **unity**
 
 - 🤝 I'm looking for help with **also game development**
 
