@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **unity**
 
-- 🤝 I'm looking for help with **also game development**
+- 🤝 I'm looking for help with **game development**
 
 - 👨‍💻 All of my projects are available to play at [https://argotech.itch.io](https://argotech.itch.io)
 
