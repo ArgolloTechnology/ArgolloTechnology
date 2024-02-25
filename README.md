@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **argollomarvin@gmail.com / Argollo on Discord**
+- 📫 How to reach me **argollomarvin@gmail.com / argollo on Discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
