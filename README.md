@@ -32,3 +32,37 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=argollotechnology&show_icons=true&theme=dark&locale=en&layout=compact" alt="argollotechnology" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=argollotechnology&show_icons=true&theme=dark&locale=en" alt="argollotechnology" /></p>
+
+# Unity Development Curriculum
+
+## Unity Editor Installation and Project Management
+- Install the Unity Editor for the first time
+- Create and manage projects in the Unity Hub
+
+## Unity Editor Essentials
+- Identify and use essential features of the Unity Editor
+- Create and Manage Scenes
+  - Navigate in 3D space in the Scene view
+  - Navigate in 2D space in the Scene view
+
+## Real-time Industry Essentials
+- Understand Unity’s history and role within the industries that rely on real-time creation
+- Describe the real-time production cycle
+
+## Scene Building Essentials
+- Identify the default elements in a new Scene
+- Create GameObjects
+- Manipulate GameObjects
+- Work with components and Scripts
+- Change the appearance of GameObjects
+- Implement basic physics for GameObjects
+
+## Publishing
+- Create and share a basic build
+
+## Level 1 Job Preparation
+- Prepare yourself for the job search
+- Create a portfolio, enabling you to pursue a job in real-time development
+- Cultivate professional attitudes
+- Plan your Unity learning journey by setting goals
+- Practice continuous personal and professional growth
