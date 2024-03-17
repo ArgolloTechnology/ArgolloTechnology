@@ -60,7 +60,15 @@
   </a> 
 </p>
 <h3 align="left">certificates:</h3>
+<p>
+  <a href="https://www.credly.com/badges/a8b5835f-4681-4cc3-80e8-20990667a201/public_url">
+    <img src="unity-essentials-pathway.png" alt="Uninty-essentials-pathway" width="100" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=argollotechnology&show_icons=true&theme=dark&locale=en&layout=compact" alt="argollotechnology" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=argollotechnology&show_icons=true&theme=dark&locale=en&layout=compact" alt="argollotechnology" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=argollotechnology&show_icons=true&theme=dark&locale=en" alt="argollotechnology" /></p>
+
