@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marvin Argollo</h1>
 <h3 align="center">A passionate game developer and electrical engineer/computer engineer in training</h3>
-
+<p align="center"> burnt components: 4</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=argollotechnology&label=Profile%20views&color=0e75b6&style=flat" alt="argollotechnology" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=argollotechnology&theme=matrix" alt="argollotechnology" /></a> </p>
 
-- 🔭 I’m currently working on **Nomecom**
+- 🔭 I’m currently working on **myself**
 
 - 🌱 I’m currently learning **a little of everything**
 
