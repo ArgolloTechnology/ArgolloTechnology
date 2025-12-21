@@ -3,7 +3,7 @@
 <p align="center"> burnt components: 4</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=argollotechnology&label=Profile%20views&color=0e75b6&style=flat" alt="argollotechnology" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=argollotechnology&theme=matrix" alt="argollotechnology" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=argollotechnology&theme=matrix" alt="argollotechnology" /></a> </p>-->
 
 - 🔭 I’m currently working on **Zarollo**
 
@@ -70,6 +70,11 @@
 <p>
   <a href="https://www.credly.com/badges/a8b5835f-4681-4cc3-80e8-20990667a201/public_url">
     <img src="unity-essentials-pathway.png" alt="Uninty-essentials-pathway" width="100" />
+  </a>
+  <a href="https://tryhackme.com/Mr.Miau/badges/terminaled" target="_blank">
+    <img src="https://tryhackme.com/img/badges/linux.svg"
+       alt="TryHackMe Terminaled Badge"
+       width="100" />
   </a>
 </p>
 
