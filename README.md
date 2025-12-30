@@ -67,7 +67,7 @@
 </p>
 <h2 align="left">cybersecurity:</h2>
 <p>
- <img src="https://tryhackme-badges.s3.amazonaws.com/Mr.Miau.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/Mr.Miau.png" alt="Your Image Badge" />
 </p>
 <h3 align="left">certificates:</h3>
 <p>
