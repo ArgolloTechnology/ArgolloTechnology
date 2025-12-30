@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Zarollo**
 
-- 🌱 I’m currently learning **Godot**
+- 🌱 I’m currently learning **Pentesting**
 
 - 👯 I’m looking to collaborate on **unity and godot**
 
@@ -65,7 +65,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="godot" width="40" height="40"/> 
   </a>
 </p>
-
+<h2 align="left">cybersecurity:</h2>
+<p>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Mr.Miau.png" alt="Your Image Badge" />
+</p>
 <h3 align="left">certificates:</h3>
 <p>
   <a href="https://www.credly.com/badges/a8b5835f-4681-4cc3-80e8-20990667a201/public_url">
