@@ -81,23 +81,3 @@
   </a>
 </p>
 
-
-<p>
-  <img 
-    align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=argollotechnology&show_icons=true&theme=dark&locale=en&layout=compact" 
-    alt="argollotechnology" 
-    style="height: 200px;"
-  />
-</p>
-
-<p>
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=argollotechnology&show_icons=true&theme=dark&locale=en" 
-    alt="argollotechnology" 
-    style="height: 200px;"
-  />
-</p>
-
-
